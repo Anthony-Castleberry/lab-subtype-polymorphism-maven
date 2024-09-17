@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 /**
  * Blocks of ASCII text.
  *
- * @author Samuel A. Rebelsky
+ * @author Anthony Castleberry & Kevin Tang
  */
 public interface AsciiBlock {
   // +----------------+----------------------------------------------
